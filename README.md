@@ -2,4 +2,4 @@
 
 serve the webpage: http-server 
 
-use with metamask
+use with metamask, connect to ropsten testnet
